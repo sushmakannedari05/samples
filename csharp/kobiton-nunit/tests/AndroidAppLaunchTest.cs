@@ -13,7 +13,7 @@ namespace Kobiton.NUnitSamples
         [Test]
         public void Launch_Android_App_On_Kobiton()
         {
-            // NOTE: Use placeholders. Do NOT commit real credentials.
+            // NOTE: These are placeholders. Update your Username and API key
             string username = "YOUR_KOBITON_USERNAME";
             string apiKey = "YOUR_KOBITON_API_KEY";
             string hubBase = "https://api.kobiton.com/wd/hub";
